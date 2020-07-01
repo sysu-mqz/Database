@@ -1,0 +1,25 @@
+1.打印2018级选修C语言且成绩小于60分的学生
+10914	dahong	Male	3/2/3	2018	guangdong
+Advanced math:70 4	C Programming Language:59 3	College English:79 3.5	Control Theory:87 2	Python:69 2	Total:364 14.5	
+
+2.统计课程平均分大于80的学生个人信息并输出
+10919	xiaomi	Female	5/2/5	2016	beijing
+Advanced math:76 4	C Programming Language:91 3	College English:83 3.5	Control Theory:86 2	Python:81 2	Total:417 14.5	
+10921	dabin	Male	6/2/6	2015	hainan
+Advanced math:79 4	C Programming Language:83 3	College English:81 3.5	Control Theory:90 2	Total:333 12.5	
+
+3.查询每个学生是否修满12学分
+总学分标准为：12分,以下同学未达到
+10905	xiaomei	Female	994/2/1	2018	hunan
+Advanced math:53 4	C Programming Language:74 3	College English:70 3.5	Control Theory:91 2	Total:288 12.5	
+10908	jianfa	Male	2/7/2	2017	hunan
+Advanced math:80 4	C Programming Language:56 3	College English:80 3.5	Control Theory:85 2	Python:96 2	Total:397 14.5	
+10914	dahong	Male	3/2/3	2018	guangdong
+Advanced math:70 4	C Programming Language:59 3	College English:79 3.5	Control Theory:87 2	Python:69 2	Total:364 14.5	
+10917	xingfeng	Male	4/2/4	2017	jiangsu
+Advanced math:77 4	C Programming Language:73 3	College English:90 3.5	Control Theory:88 2	Python:72 2	Total:400 14.5	
+10919	xiaomi	Female	5/2/5	2016	beijing
+Advanced math:76 4	C Programming Language:91 3	College English:83 3.5	Control Theory:86 2	Python:81 2	Total:417 14.5	
+10921	dabin	Male	6/2/6	2015	hainan
+Advanced math:79 4	C Programming Language:83 3	College English:81 3.5	Control Theory:90 2	Total:333 12.5	
+
